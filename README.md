@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:1f6feb,100:238636&height=145&section=header&text=Hello%20World&fontSize=52&fontColor=f0f6fc&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20profile&descSize=16&descAlign=center&descAlignY=68&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,35:161b22,65:1f6feb,100:238636&height=175&section=header&text=Hello%20World&fontSize=58&fontColor=f0f6fc&animation=twinkling&fontAlignY=44&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
 # Artem Tokarev
 
@@ -24,132 +24,35 @@
 
 ## ⚙️ Tech Stack
 
-<br/>
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
+</p>
 
-**Frontend**
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs&theme=dark" alt="Backend" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br/><sub><b>React</b></sub>
-    </td>
-  </tr>
-</table>
+### CMS & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/1C--Bitrix-D52B1E?style=for-the-badge&logoColor=white" alt="1C-Bitrix" />
+</p>
 
-<br/>
+### AI Tools & LLMs
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/LLM-A371F7?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GPT_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT Codex" />
+</p>
 
-**Backend**
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-      <br/><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
-      <br/><sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-**CMS & Platforms**
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/1C--Bitrix-D52B1E?style=for-the-badge&logoColor=white" alt="1C-Bitrix"/>
-      <br/><sub><b>1C-Bitrix</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-**AI Tools & LLMs**
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-      <br/><sub><b>Cursor</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
-      <br/><sub><b>Antigravity</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/LLM-A371F7?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
-      <br/><sub><b>LLM</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-      <br/><sub><b>Claude</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-      <br/><sub><b>Gemini</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="48" height="48" alt="GPT Codex"/>
-      <br/><sub><b>GPT Codex</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-**Database & Tools**
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-      <br/><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL"/>
-      <br/><sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-      <br/><sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop"/>
-      <br/><sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator"/>
-      <br/><sub><b>Illustrator</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+### Database & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,figma,ps,ai&theme=dark" alt="Database and Tools" />
+</p>
 
 ---
 
