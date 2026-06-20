@@ -25,44 +25,114 @@
 ## ⚙️ Tech Stack
 
 ### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-58A6FF?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="React" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/html5/58A6FF" width="40" height="40" alt="HTML5"/></td></tr></table>
+  <br/><b><font color="#58A6FF">HTML5</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/css3/58A6FF" width="40" height="40" alt="CSS3"/></td></tr></table>
+  <br/><b><font color="#58A6FF">CSS3</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/javascript/58A6FF" width="40" height="40" alt="JavaScript"/></td></tr></table>
+  <br/><b><font color="#58A6FF">JavaScript</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/react/58A6FF" width="40" height="40" alt="React"/></td></tr></table>
+  <br/><b><font color="#58A6FF">React</font></b>
+</td>
+</tr>
+</table>
 
 ### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-58A6FF?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-58A6FF?style=for-the-badge&logo=php&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-58A6FF?style=for-the-badge&logo=laravel&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Node.js" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/python/58A6FF" width="40" height="40" alt="Python"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Python</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/php/58A6FF" width="40" height="40" alt="PHP"/></td></tr></table>
+  <br/><b><font color="#58A6FF">PHP</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/laravel/58A6FF" width="40" height="40" alt="Laravel"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Laravel</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" width="40" height="40" alt="Node.js"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Node.js</font></b>
+</td>
+</tr>
+</table>
 
 ### CMS & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/-1C%20Bitrix-58A6FF?style=for-the-badge&logo=bitrix24&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="1C-Bitrix" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/bitrix24/58A6FF" width="40" height="40" alt="1C-Bitrix"/></td></tr></table>
+  <br/><b><font color="#58A6FF">1C-Bitrix</font></b>
+</td>
+</tr>
+</table>
 
 ### AI Tools & LLMs
-<p align="left">
-  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/-LLM-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="LLM" />
-  <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Claude" />
-  <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="GPT Codex" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/cursor/58A6FF" width="40" height="40" alt="Cursor"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Cursor</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/google/58A6FF" width="40" height="40" alt="Antigravity"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Antigravity</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/openai/58A6FF" width="40" height="40" alt="LLM"/></td></tr></table>
+  <br/><b><font color="#58A6FF">LLM</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/anthropic/58A6FF" width="40" height="40" alt="Claude"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Claude</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/googlegemini/58A6FF" width="40" height="40" alt="Gemini"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Gemini</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/openai/58A6FF" width="40" height="40" alt="GPT Codex"/></td></tr></table>
+  <br/><b><font color="#58A6FF">GPT Codex</font></b>
+</td>
+</tr>
+</table>
 
 ### Database & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-SQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Figma-58A6FF?style=for-the-badge&logo=figma&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Photoshop-58A6FF?style=for-the-badge&logo=adobe&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-Illustrator-58A6FF?style=for-the-badge&logo=adobe&logoColor=58A6FF&labelColor=161B22&color=58A6FF&logoWidth=30" alt="Illustrator" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/mysql/58A6FF" width="40" height="40" alt="MySQL"/></td></tr></table>
+  <br/><b><font color="#58A6FF">MySQL</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/postgresql/58A6FF" width="40" height="40" alt="SQL"/></td></tr></table>
+  <br/><b><font color="#58A6FF">SQL</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/figma/58A6FF" width="40" height="40" alt="Figma"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Figma</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/adobephotoshop/58A6FF" width="40" height="40" alt="Photoshop"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Photoshop</font></b>
+</td>
+<td align="center" width="96">
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/adobeillustrator/58A6FF" width="40" height="40" alt="Illustrator"/></td></tr></table>
+  <br/><b><font color="#58A6FF">Illustrator</font></b>
+</td>
+</tr>
+</table>
 
 ---
 
