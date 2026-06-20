@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=130&section=header&text=Hello%20World&fontSize=50&fontColor=58a6ff&animation=blink&fontAlignY=44&stroke=30363d&strokeWidth=1.2" width="900"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SQL+%26+Database+Design;API+Integrations+%26+1C-Bitrix;Laravel+%7C+PHP+%7C+Python;AI:+Cursor+%7C+Claude+%7C+Gemini+%7C+GPT+Codex&font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&width=900&height=52&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
+
 
 # Artem Tokarev
 
 ### Backend Developer / DBA · API Integrations · Web Applications · AI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SQL+%26+Database+Design;API+Integrations+%26+1C-Bitrix;Laravel+%7C+PHP+%7C+Python;AI:+Cursor+%7C+Claude+%7C+Gemini+%7C+GPT+Codex&font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&width=900&height=52&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
 
 </div>
 
