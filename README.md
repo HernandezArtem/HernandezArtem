@@ -28,19 +28,19 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/html5/58A6FF" width="40" height="40" alt="HTML5"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></td></tr></table>
   <br/><b><font color="#58A6FF">HTML5</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/css3/58A6FF" width="40" height="40" alt="CSS3"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></td></tr></table>
   <br/><b><font color="#58A6FF">CSS3</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/javascript/58A6FF" width="40" height="40" alt="JavaScript"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td></tr></table>
   <br/><b><font color="#58A6FF">JavaScript</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/react/58A6FF" width="40" height="40" alt="React"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/react/react-original.svg" width="40" height="40" alt="React"/></td></tr></table>
   <br/><b><font color="#58A6FF">React</font></b>
 </td>
 </tr>
@@ -50,19 +50,19 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/python/58A6FF" width="40" height="40" alt="Python"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td></tr></table>
   <br/><b><font color="#58A6FF">Python</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/php/58A6FF" width="40" height="40" alt="PHP"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></td></tr></table>
   <br/><b><font color="#58A6FF">PHP</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/laravel/58A6FF" width="40" height="40" alt="Laravel"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/></td></tr></table>
   <br/><b><font color="#58A6FF">Laravel</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" width="40" height="40" alt="Node.js"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></td></tr></table>
   <br/><b><font color="#58A6FF">Node.js</font></b>
 </td>
 </tr>
@@ -72,7 +72,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/bitrix24/58A6FF" width="40" height="40" alt="1C-Bitrix"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-1C-Bitrix-161B22?style=for-the-badge&logo=bitrix24&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="1C-Bitrix"/></td></tr></table>
   <br/><b><font color="#58A6FF">1C-Bitrix</font></b>
 </td>
 </tr>
@@ -82,27 +82,23 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/cursor/58A6FF" width="40" height="40" alt="Cursor"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Cursor-161B22?style=for-the-badge&logo=cursor&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Cursor"/></td></tr></table>
   <br/><b><font color="#58A6FF">Cursor</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/google/58A6FF" width="40" height="40" alt="Antigravity"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/google/google-original.svg" width="40" height="40" alt="Antigravity"/></td></tr></table>
   <br/><b><font color="#58A6FF">Antigravity</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/openai/58A6FF" width="40" height="40" alt="LLM"/></td></tr></table>
-  <br/><b><font color="#58A6FF">LLM</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/anthropic/58A6FF" width="40" height="40" alt="Claude"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Claude"/></td></tr></table>
   <br/><b><font color="#58A6FF">Claude</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/googlegemini/58A6FF" width="40" height="40" alt="Gemini"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Gemini"/></td></tr></table>
   <br/><b><font color="#58A6FF">Gemini</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/openai/58A6FF" width="40" height="40" alt="GPT Codex"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/openai/openai-original.svg" width="40" height="40" alt="GPT Codex"/></td></tr></table>
   <br/><b><font color="#58A6FF">GPT Codex</font></b>
 </td>
 </tr>
@@ -112,23 +108,23 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/mysql/58A6FF" width="40" height="40" alt="MySQL"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></td></tr></table>
   <br/><b><font color="#58A6FF">MySQL</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/postgresql/58A6FF" width="40" height="40" alt="SQL"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL"/></td></tr></table>
   <br/><b><font color="#58A6FF">SQL</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/figma/58A6FF" width="40" height="40" alt="Figma"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></td></tr></table>
   <br/><b><font color="#58A6FF">Figma</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/adobephotoshop/58A6FF" width="40" height="40" alt="Photoshop"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/></td></tr></table>
   <br/><b><font color="#58A6FF">Photoshop</font></b>
 </td>
 <td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.simpleicons.org/adobeillustrator/58A6FF" width="40" height="40" alt="Illustrator"/></td></tr></table>
+  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/></td></tr></table>
   <br/><b><font color="#58A6FF">Illustrator</font></b>
 </td>
 </tr>
