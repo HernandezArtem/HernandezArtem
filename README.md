@@ -26,42 +26,42 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-58A6FF?style=flat-square&logo=html5&logoColor=58A6FF&labelColor=161B22" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-58A6FF?style=flat-square&logo=css3&logoColor=58A6FF&labelColor=161B22" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-58A6FF?style=flat-square&logo=javascript&logoColor=58A6FF&labelColor=161B22" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=58A6FF&labelColor=161B22" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=58A6FF&labelColor=161B22" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=58A6FF&labelColor=161B22" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=58A6FF&labelColor=161B22" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-58A6FF?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=161B22" alt="React" />
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-58A6FF?style=flat-square&logo=python&logoColor=58A6FF&labelColor=161B22" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-58A6FF?style=flat-square&logo=php&logoColor=58A6FF&labelColor=161B22" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-58A6FF?style=flat-square&logo=laravel&logoColor=58A6FF&labelColor=161B22" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-58A6FF?style=flat-square&logo=nodedotjs&logoColor=58A6FF&labelColor=161B22" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=161B22" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-58A6FF?style=for-the-badge&logo=php&logoColor=58A6FF&labelColor=161B22" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-58A6FF?style=for-the-badge&logo=laravel&logoColor=58A6FF&labelColor=161B22" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF&labelColor=161B22" alt="Node.js" />
 </p>
 
 ### CMS & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/1C--Bitrix-58A6FF?style=flat-square&logoColor=58A6FF&labelColor=161B22" alt="1C-Bitrix" />
+  <img src="https://img.shields.io/badge/1C--Bitrix-58A6FF?style=for-the-badge&logoColor=58A6FF&labelColor=161B22" alt="1C-Bitrix" />
 </p>
 
 ### AI Tools & LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/Cursor-58A6FF?style=flat-square&logo=cursor&logoColor=58A6FF&labelColor=161B22" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Antigravity-58A6FF?style=flat-square&logo=google&logoColor=58A6FF&labelColor=161B22" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/LLM-58A6FF?style=flat-square&logo=openai&logoColor=58A6FF&labelColor=161B22" alt="LLM" />
-  <img src="https://img.shields.io/badge/Claude-58A6FF?style=flat-square&logo=anthropic&logoColor=58A6FF&labelColor=161B22" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-58A6FF?style=flat-square&logo=googlegemini&logoColor=58A6FF&labelColor=161B22" alt="Gemini" />
-  <img src="https://img.shields.io/badge/GPT_Codex-58A6FF?style=flat-square&logo=openai&logoColor=58A6FF&labelColor=161B22" alt="GPT Codex" />
+  <img src="https://img.shields.io/badge/Cursor-58A6FF?style=for-the-badge&logo=cursor&logoColor=58A6FF&labelColor=161B22" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=58A6FF&labelColor=161B22" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/LLM-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22" alt="LLM" />
+  <img src="https://img.shields.io/badge/Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GPT_Codex-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22" alt="GPT Codex" />
 </p>
 
 ### Database & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-58A6FF?style=flat-square&logo=mysql&logoColor=58A6FF&labelColor=161B22" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-58A6FF?style=flat-square&logo=postgresql&logoColor=58A6FF&labelColor=161B22" alt="SQL" />
-  <img src="https://img.shields.io/badge/Figma-58A6FF?style=flat-square&logo=figma&logoColor=58A6FF&labelColor=161B22" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-58A6FF?style=flat-square&logo=adobephotoshop&logoColor=58A6FF&labelColor=161B22" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-58A6FF?style=flat-square&logo=adobeillustrator&logoColor=58A6FF&labelColor=161B22" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=58A6FF&labelColor=161B22" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=58A6FF&labelColor=161B22" alt="SQL" />
+  <img src="https://img.shields.io/badge/Figma-58A6FF?style=for-the-badge&logo=figma&logoColor=58A6FF&labelColor=161B22" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-58A6FF?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF&labelColor=161B22" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-58A6FF?style=for-the-badge&logo=adobeillustrator&logoColor=58A6FF&labelColor=161B22" alt="Illustrator" />
 </p>
 
 ---
