@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Antigravity" />
   <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Claude" />
   <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=chatgpt&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="GPT Codex" />
+  <table cellpadding="0" cellspacing="0"><tr>
+  <td align="center" bgcolor="#161B22" width="44" height="28"><img src="https://raw.githubusercontent.com/HernandezArtem/HernandezArtem/main/assets/openai.svg" width="18" height="18" alt=""/></td>
+  <td><img src="https://img.shields.io/badge/GPT%20Codex-58A6FF?style=for-the-badge&labelColor=58A6FF&color=58A6FF" height="28" alt="GPT Codex"/></td>
+  </tr></table>
 </p>
 
 ### Database & Tools
