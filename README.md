@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World](https://readme-typing-svg.demolab.com/?lines=Hello+World;%3E+Welcome+to+my+profile;%3E+Artem+Tokarev&font=JetBrains+Mono&weight=600&size=42&duration=2200&pause=1200&color=58A6FF&center=true&width=900&height=78&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
+[![Hello World](https://readme-typing-svg.demolab.com/?lines=Hello+World;+Welcome+to+my+profile;&font=JetBrains+Mono&weight=600&size=42&duration=2200&pause=1200&color=58A6FF&center=true&width=900&height=78&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
 
 
 
