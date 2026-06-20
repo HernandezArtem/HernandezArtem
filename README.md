@@ -36,16 +36,12 @@
 
 ### CMS & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/1C-Bitrix-58A6FF?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="1C-Bitrix" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark&perline=1" alt="1C-Bitrix" />
 </p>
 
 ### AI Tools & LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=for-the-badge&logo=cursor&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Claude" />
-  <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FHernandezArtem%2FHernandezArtem%2Fmain%2Fassets%2Fopenai.svg&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="GPT Codex" />
+  <img src="https://skills.syvixor.com/api/icons?i=cursor,google,claudeai,googlegemini,chatgpt&perline=5" alt="AI Tools" />
 </p>
 
 ### Database & Tools
