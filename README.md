@@ -36,7 +36,7 @@
 
 ### CMS & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php&theme=dark&perline=1" alt="1C-Bitrix" />
+  <img src="https://raw.githubusercontent.com/HernandezArtem/HernandezArtem/main/assets/bitrix.png" width="48" height="48" alt="1C-Bitrix" />
 </p>
 
 ### AI Tools & LLMs
