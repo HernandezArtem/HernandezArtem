@@ -26,42 +26,32 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-58A6FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark&perline=4" alt="Frontend" />
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-58A6FF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-58A6FF?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-58A6FF?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs&theme=dark&perline=4" alt="Backend" />
 </p>
 
 ### CMS & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/-1C%20Bitrix-58A6FF?style=for-the-badge&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="1C-Bitrix" />
+  <img src="https://img.shields.io/badge/1C-Bitrix-58A6FF?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="1C-Bitrix" />
 </p>
 
 ### AI Tools & LLMs
 <p align="left">
-  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=for-the-badge&logo=cursor&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/-LLM-58A6FF?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="LLM" />
-  <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Claude" />
-  <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Gemini" />
-  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="GPT Codex" />
+  <img src="https://skillicons.dev/icons?i=cursor,openai&theme=dark&perline=6" alt="Cursor and OpenAI" />
+  <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/-LLM-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="LLM" />
+  <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Claude" />
+  <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="Gemini" />
+  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=161B22&color=58A6FF" alt="GPT Codex" />
 </p>
 
 ### Database & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-SQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Figma-58A6FF?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Photoshop-58A6FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-Illustrator-58A6FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,figma,ps,ai&theme=dark&perline=5" alt="Database and Tools" />
 </p>
 
 ---
