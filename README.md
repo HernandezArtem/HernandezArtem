@@ -25,110 +25,44 @@
 ## ⚙️ Tech Stack
 
 ### Frontend
-<table>
-<tr>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></td></tr></table>
-  <br/><b><font color="#58A6FF">HTML5</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></td></tr></table>
-  <br/><b><font color="#58A6FF">CSS3</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td></tr></table>
-  <br/><b><font color="#58A6FF">JavaScript</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/react/react-original.svg" width="40" height="40" alt="React"/></td></tr></table>
-  <br/><b><font color="#58A6FF">React</font></b>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-58A6FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="React" />
+</p>
 
 ### Backend
-<table>
-<tr>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Python</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></td></tr></table>
-  <br/><b><font color="#58A6FF">PHP</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Laravel</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Node.js</font></b>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-58A6FF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Python" />
+  <img src="https://img.shields.io/badge/-PHP-58A6FF?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-58A6FF?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Node.js" />
+</p>
 
 ### CMS & Platforms
-<table>
-<tr>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-1C-Bitrix-161B22?style=for-the-badge&logo=bitrix24&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="1C-Bitrix"/></td></tr></table>
-  <br/><b><font color="#58A6FF">1C-Bitrix</font></b>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/-1C%20Bitrix-58A6FF?style=for-the-badge&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="1C-Bitrix" />
+</p>
 
 ### AI Tools & LLMs
-<table>
-<tr>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Cursor-161B22?style=for-the-badge&logo=cursor&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Cursor"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Cursor</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/google/google-original.svg" width="40" height="40" alt="Antigravity"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Antigravity</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Claude"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Claude</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://img.shields.io/badge/-Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=58A6FF&labelColor=161B22&color=161B22" width="72" height="40" alt="Gemini"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Gemini</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/openai/openai-original.svg" width="40" height="40" alt="GPT Codex"/></td></tr></table>
-  <br/><b><font color="#58A6FF">GPT Codex</font></b>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=for-the-badge&logo=cursor&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/-Antigravity-58A6FF?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/-LLM-58A6FF?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="LLM" />
+  <img src="https://img.shields.io/badge/-Claude-58A6FF?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Claude" />
+  <img src="https://img.shields.io/badge/-Gemini-58A6FF?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Gemini" />
+  <img src="https://img.shields.io/badge/-GPT%20Codex-58A6FF?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="GPT Codex" />
+</p>
 
 ### Database & Tools
-<table>
-<tr>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></td></tr></table>
-  <br/><b><font color="#58A6FF">MySQL</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL"/></td></tr></table>
-  <br/><b><font color="#58A6FF">SQL</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Figma</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Photoshop</font></b>
-</td>
-<td align="center" width="96">
-  <table><tr><td align="center" bgcolor="#161B22" width="72" height="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v5.15.4/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/></td></tr></table>
-  <br/><b><font color="#58A6FF">Illustrator</font></b>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-SQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Figma-58A6FF?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Photoshop-58A6FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Illustrator-58A6FF?style=for-the-badge&logo=adobe&logoColor=FFFFFF&labelColor=161B22&color=58A6FF" alt="Illustrator" />
+</p>
 
 ---
 
