@@ -36,7 +36,7 @@
 
 ### CMS & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11.14.0/icons/bitrix24.svg" width="48" height="48" alt="1C-Bitrix" />
+  <img src="https://alllogos.ru/images/logotip-1c-bitrix.png" width="48" height="48" alt="1C-Bitrix" />
 </p>
 
 ### AI Tools & LLMs
