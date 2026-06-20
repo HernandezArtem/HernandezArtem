@@ -4,6 +4,8 @@
 
 ### Backend Developer / DBA • API Integrations • Web Applications • AI
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=SQL+%26+Database+Design;API+Integrations+%26+1C-Bitrix;Laravel+%7C+PHP+%7C+Python;AI:+Cursor+%7C+Claude+%7C+Gemini+%7C+GPT+Codex&center=true&width=700&height=45&color=58A6FF&size=22&vCenter=true)
+
 ---
 
 ## 🚀 About Me
